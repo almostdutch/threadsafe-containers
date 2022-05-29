@@ -1,0 +1,10 @@
+#!/bin/sh
+
+echo "" > test_results.txt
+lsb_release -d | awk '{print $2,$3,$4}' >> test_results.txt
+lscpu | grep "Model name:" | sed -r 's/Model name:\s{1,}//g' >> test_results.txt
+echo -e "\n" >> test_results.txt
+
+for Nthreads in $(seq 1 $1); do
+./threadsafe_stack_test 10000 $Nthreads $Nthreads 0 100 >> test_results.txt
+done

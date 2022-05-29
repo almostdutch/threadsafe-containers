@@ -1,0 +1,204 @@
+Ubuntu 20.04.3 LTS
+Intel(R) Core(TM) i7-10700 CPU @ 2.90GHz
+
+
+Nelements: 10000
+NpushThreads: 1
+NpopThreads: 1
+TimeHeadStart [ms]: 0
+Niter: 100
+--------------------------------------------------
+Test for queue #1 (avg of 100 runs)
+Size of empty queue:     112        [bytes]
+Test duration:           1.16 ± 0.368 [ms]
+--------------------------------------------------
+--------------------------------------------------
+Test for queue #2 (avg of 100 runs)
+Size of empty queue:     144        [bytes]
+Test duration:           0.67 ± 0.473 [ms]
+--------------------------------------------------
+--------------------------------------------------
+Test for queue #3 (avg of 100 runs)
+Size of empty queue:     24         [bytes]
+Test duration:           1.18 ± 0.386 [ms]
+--------------------------------------------------
+--------------------------------------------------
+Test for queue #4 (avg of 100 runs)
+Size of empty queue:     24         [bytes]
+Test duration:           1.04 ± 0.197 [ms]
+--------------------------------------------------
+Nelements: 10000
+NpushThreads: 2
+NpopThreads: 2
+TimeHeadStart [ms]: 0
+Niter: 100
+--------------------------------------------------
+Test for queue #1 (avg of 100 runs)
+Size of empty queue:     112        [bytes]
+Test duration:           6.26 ± 0.441 [ms]
+--------------------------------------------------
+--------------------------------------------------
+Test for queue #2 (avg of 100 runs)
+Size of empty queue:     144        [bytes]
+Test duration:           4.19 ± 0.394 [ms]
+--------------------------------------------------
+--------------------------------------------------
+Test for queue #3 (avg of 100 runs)
+Size of empty queue:     24         [bytes]
+Test duration:           7.99 ± 0.438 [ms]
+--------------------------------------------------
+--------------------------------------------------
+Test for queue #4 (avg of 100 runs)
+Size of empty queue:     24         [bytes]
+Test duration:           7.25 ± 0.52 [ms]
+--------------------------------------------------
+Nelements: 10000
+NpushThreads: 3
+NpopThreads: 3
+TimeHeadStart [ms]: 0
+Niter: 100
+--------------------------------------------------
+Test for queue #1 (avg of 100 runs)
+Size of empty queue:     112        [bytes]
+Test duration:           12 ± 0.243 [ms]
+--------------------------------------------------
+--------------------------------------------------
+Test for queue #2 (avg of 100 runs)
+Size of empty queue:     144        [bytes]
+Test duration:           8 ± 0     [ms]
+--------------------------------------------------
+--------------------------------------------------
+Test for queue #3 (avg of 100 runs)
+Size of empty queue:     24         [bytes]
+Test duration:           12.8 ± 0.429 [ms]
+--------------------------------------------------
+--------------------------------------------------
+Test for queue #4 (avg of 100 runs)
+Size of empty queue:     24         [bytes]
+Test duration:           12.5 ± 0.502 [ms]
+--------------------------------------------------
+Nelements: 10000
+NpushThreads: 4
+NpopThreads: 4
+TimeHeadStart [ms]: 0
+Niter: 100
+--------------------------------------------------
+Test for queue #1 (avg of 100 runs)
+Size of empty queue:     112        [bytes]
+Test duration:           15.5 ± 0.674 [ms]
+--------------------------------------------------
+--------------------------------------------------
+Test for queue #2 (avg of 100 runs)
+Size of empty queue:     144        [bytes]
+Test duration:           10.6 ± 0.488 [ms]
+--------------------------------------------------
+--------------------------------------------------
+Test for queue #3 (avg of 100 runs)
+Size of empty queue:     24         [bytes]
+Test duration:           19.6 ± 0.934 [ms]
+--------------------------------------------------
+--------------------------------------------------
+Test for queue #4 (avg of 100 runs)
+Size of empty queue:     24         [bytes]
+Test duration:           20.2 ± 1.1 [ms]
+--------------------------------------------------
+Nelements: 10000
+NpushThreads: 5
+NpopThreads: 5
+TimeHeadStart [ms]: 0
+Niter: 100
+--------------------------------------------------
+Test for queue #1 (avg of 100 runs)
+Size of empty queue:     112        [bytes]
+Test duration:           20.2 ± 0.617 [ms]
+--------------------------------------------------
+--------------------------------------------------
+Test for queue #2 (avg of 100 runs)
+Size of empty queue:     144        [bytes]
+Test duration:           13.5 ± 0.503 [ms]
+--------------------------------------------------
+--------------------------------------------------
+Test for queue #3 (avg of 100 runs)
+Size of empty queue:     24         [bytes]
+Test duration:           29.5 ± 2.19 [ms]
+--------------------------------------------------
+--------------------------------------------------
+Test for queue #4 (avg of 100 runs)
+Size of empty queue:     24         [bytes]
+Test duration:           30.6 ± 2.43 [ms]
+--------------------------------------------------
+Nelements: 10000
+NpushThreads: 6
+NpopThreads: 6
+TimeHeadStart [ms]: 0
+Niter: 100
+--------------------------------------------------
+Test for queue #1 (avg of 100 runs)
+Size of empty queue:     112        [bytes]
+Test duration:           24.4 ± 1.02 [ms]
+--------------------------------------------------
+--------------------------------------------------
+Test for queue #2 (avg of 100 runs)
+Size of empty queue:     144        [bytes]
+Test duration:           16.4 ± 0.534 [ms]
+--------------------------------------------------
+--------------------------------------------------
+Test for queue #3 (avg of 100 runs)
+Size of empty queue:     24         [bytes]
+Test duration:           35.1 ± 7.19 [ms]
+--------------------------------------------------
+--------------------------------------------------
+Test for queue #4 (avg of 100 runs)
+Size of empty queue:     24         [bytes]
+Test duration:           45.9 ± 3.85 [ms]
+--------------------------------------------------
+Nelements: 10000
+NpushThreads: 7
+NpopThreads: 7
+TimeHeadStart [ms]: 0
+Niter: 100
+--------------------------------------------------
+Test for queue #1 (avg of 100 runs)
+Size of empty queue:     112        [bytes]
+Test duration:           33.4 ± 1.35 [ms]
+--------------------------------------------------
+--------------------------------------------------
+Test for queue #2 (avg of 100 runs)
+Size of empty queue:     144        [bytes]
+Test duration:           22.9 ± 0.383 [ms]
+--------------------------------------------------
+--------------------------------------------------
+Test for queue #3 (avg of 100 runs)
+Size of empty queue:     24         [bytes]
+Test duration:           47.3 ± 1.43 [ms]
+--------------------------------------------------
+--------------------------------------------------
+Test for queue #4 (avg of 100 runs)
+Size of empty queue:     24         [bytes]
+Test duration:           49.5 ± 1.47 [ms]
+--------------------------------------------------
+Nelements: 10000
+NpushThreads: 8
+NpopThreads: 8
+TimeHeadStart [ms]: 0
+Niter: 100
+--------------------------------------------------
+Test for queue #1 (avg of 100 runs)
+Size of empty queue:     112        [bytes]
+Test duration:           39.1 ± 1.56 [ms]
+--------------------------------------------------
+--------------------------------------------------
+Test for queue #2 (avg of 100 runs)
+Size of empty queue:     144        [bytes]
+Test duration:           27.1 ± 0.592 [ms]
+--------------------------------------------------
+--------------------------------------------------
+Test for queue #3 (avg of 100 runs)
+Size of empty queue:     24         [bytes]
+Test duration:           66.1 ± 2.9 [ms]
+--------------------------------------------------
+--------------------------------------------------
+Test for queue #4 (avg of 100 runs)
+Size of empty queue:     24         [bytes]
+Test duration:           68.7 ± 4.13 [ms]
+--------------------------------------------------

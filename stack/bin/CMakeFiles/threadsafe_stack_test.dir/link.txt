@@ -1,0 +1,1 @@
+/usr/bin/g++     CMakeFiles/threadsafe_stack_test.dir/src/main.cpp.o  -o threadsafe_stack_test  -lpthread 

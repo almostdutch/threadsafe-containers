@@ -1,0 +1,3 @@
+/home/vitaliy/installed_programs/eclipse/parallel-2021-06/eclipse-workspace/test2/queue/bin/CMakeFiles/rebuild_cache.dir
+/home/vitaliy/installed_programs/eclipse/parallel-2021-06/eclipse-workspace/test2/queue/bin/CMakeFiles/edit_cache.dir
+/home/vitaliy/installed_programs/eclipse/parallel-2021-06/eclipse-workspace/test2/queue/bin/CMakeFiles/threadsafe_queue_test.dir
